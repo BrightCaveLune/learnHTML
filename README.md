@@ -1,2 +1,3 @@
 # learnHTML
-A simple repo for storing the different things I work on while studying HTML
+A simple repo for storing the different things I work on while studying HTML.
+Includes a CSS stylesheet
